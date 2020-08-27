@@ -18,7 +18,8 @@ $primary: #0a0a0a;
 $secondary: #FF7B7B;
 
 %opensans { font-family: 'Open Sans', sans-serif; }
-%merriweather { font-family: 'Merriweather', serif; }
+%merriweather { font-family: 'Merriweather', sans-serif; }
+%montserrat { font-family: 'Montserrat', sans-serif; }
 
 /*--------------------------------------------------------------
     1.0 Defaults
@@ -36,7 +37,12 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
+  @extend %montserrat;
+  font-weight: 700;
+}
+
+h3, h4, h5, h6 {
   @extend %merriweather;
   font-weight: 700;
 }

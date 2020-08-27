@@ -8,3 +8,6 @@ This awesome theme was developed by [Jami Gibbs](https://github.com/jamigibbs/ph
 I made some slight changes to the templates because jekyll-paginate-v2 is not supported by Github Pages. 
 I used the plugin jekyll-paginate instead! 
 
+Shoutout to the [Noun Project](https://thenounproject.com/) for its *HUGE* collection of royalty free icons. 
+It's definitely worth checking out.
+

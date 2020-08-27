@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Maria Mysliwiec</title>
+ <title>MARIA MYSLIWIEC</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-08-27T02:43:24-04:00</updated>
+ <updated>2020-08-27T05:18:09-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Maria Mysliwiec</name>
@@ -13,10 +13,28 @@
 
  
  <entry>
+   <title></title>
+   <link href="http://localhost:4000/2020/08/27/2020-08-25-ex.html"/>
+   <updated>2020-08-27T05:18:09-04:00</updated>
+   <id>http://localhost:4000/2020/08/27/2020-08-25-ex</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Skills</title>
+   <link href="http://localhost:4000/development/2020/08/23/skills.html"/>
+   <updated>2020-08-23T22:08:00-04:00</updated>
+   <id>http://localhost:4000/development/2020/08/23/skills</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>Nanoparticle Impact Analysis</title>
-   <link href="http://localhost:4000/development/2020/08/24/nano.html"/>
-   <updated>2020-08-24T22:08:00-04:00</updated>
-   <id>http://localhost:4000/development/2020/08/24/nano</id>
+   <link href="http://localhost:4000/development/2020/08/21/nano.html"/>
+   <updated>2020-08-21T22:08:00-04:00</updated>
+   <id>http://localhost:4000/development/2020/08/21/nano</id>
    <content type="html">
 </content>
  </entry>

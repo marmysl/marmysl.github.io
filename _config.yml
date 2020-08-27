@@ -5,9 +5,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Maria Mysliwiec"
+title: "MARIA MYSLIWIEC"
 email: 'mdm153@pitt.edu'
-description: "computer engineering major looking to develop cool things!"
+description: "computer engineering student + aspiring software developer"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://marmysl.github.io/" # the base hostname & protocol for your site
 
@@ -15,6 +15,10 @@ url: "http://marmysl.github.io/" # the base hostname & protocol for your site
 linkedin_username: 'mariamysl'
 github_username: 'marmysl'
 medium_username: 'mariamys'
+
+#Sections
+section_title: 'MY SPECS'
+section_subtitle: 'some projects + other relevant things'
 
 # Build settings
 markdown: kramdown

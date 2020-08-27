@@ -5819,8 +5819,11 @@ button.close {
 body {
   font-family: 'Open Sans', sans-serif; }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Merriweather', serif; }
+h3, h4, h5, h6 {
+  font-family: 'Merriweather', sans-serif; }
+
+h1, h2 {
+  font-family: 'Montserrat', sans-serif; }
 
 /*--------------------------------------------------------------
     1.0 Defaults
@@ -5832,7 +5835,10 @@ body {
   background-color: #e9edf0;
   -webkit-font-smoothing: antialiased; }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
+  font-weight: 700; }
+
+h3, h4, h5, h6 {
   font-weight: 700; }
 
 article {
