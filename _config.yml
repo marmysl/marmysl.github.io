@@ -18,7 +18,7 @@ medium_username: 'mariamys'
 
 #Sections
 section_title: 'MY SPECS'
-section_subtitle: 'some projects + other relevant things'
+section_subtitle: "what I've done and what I'm doing"
 
 # Build settings
 markdown: kramdown

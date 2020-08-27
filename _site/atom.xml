@@ -4,7 +4,7 @@
  <title>MARIA MYSLIWIEC</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-08-27T05:18:09-04:00</updated>
+ <updated>2020-08-27T09:58:24-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Maria Mysliwiec</name>
@@ -13,19 +13,19 @@
 
  
  <entry>
-   <title></title>
-   <link href="http://localhost:4000/2020/08/27/2020-08-25-ex.html"/>
-   <updated>2020-08-27T05:18:09-04:00</updated>
-   <id>http://localhost:4000/2020/08/27/2020-08-25-ex</id>
+   <title>Skills</title>
+   <link href="http://localhost:4000/development/2020/08/23/skills.html"/>
+   <updated>2020-08-23T22:08:00-04:00</updated>
+   <id>http://localhost:4000/development/2020/08/23/skills</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Skills</title>
-   <link href="http://localhost:4000/development/2020/08/23/skills.html"/>
+   <title>Relevant Coursework</title>
+   <link href="http://localhost:4000/development/2020/08/23/courses.html"/>
    <updated>2020-08-23T22:08:00-04:00</updated>
-   <id>http://localhost:4000/development/2020/08/23/skills</id>
+   <id>http://localhost:4000/development/2020/08/23/courses</id>
    <content type="html">
 </content>
  </entry>
